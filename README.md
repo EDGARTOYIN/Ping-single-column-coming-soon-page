@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [REPO](https://github.com/EDGARTOYIN/Ping-single-column-coming-soon-page)
+- Live Site URL: [SITE](https://6559950185bcee6c6a79080f--peppy-capybara-723f3b.netlify.app/)
 
 ## My process
 
